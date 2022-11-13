@@ -1,0 +1,1 @@
+# Count-triplets-in-a-sortd-doubly-linked-list-whos-sum-is-equal-to-given-value-X_C-
